@@ -9,6 +9,8 @@ A modern Next.js template with Shadcn UI components and Markdown support.
 - Markdown support
 - Modern UI components
 - Responsive design
+- Tabler Icons integration
+- Smart conditional rendering
 
 ## Prerequisites
 
